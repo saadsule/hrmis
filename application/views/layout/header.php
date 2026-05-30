@@ -37,7 +37,7 @@
                     <a href="index.html">
                         <img src="<?php echo base_url('assets/images/logo/logo.png') ?>" 
                              alt="Logo" 
-                             style="height:45px; width:auto;margin-top: 10px;">
+                             style="height:60px; width:auto;margin-top: 10px;">
 
                         <img class="logo-fold" 
                              src="<?php echo base_url('assets/images/logo/logo-fold.png') ?>" 

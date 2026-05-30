@@ -51,7 +51,7 @@
 
                         <!-- Footer -->
                         <div class="d-flex justify-content-between">
-                            <span class="text-white">© 2026 Health MIS</span>
+                            <span class="text-white">© 2026 HRMIS</span>
                 <!--            <ul class="list-inline">
                                 <li class="list-inline-item">
                                     <a class="text-white text-link" href="#">Legal</a>
@@ -77,7 +77,7 @@
 
                                     <!-- Other Three Logos -->
                                     <div class="d-flex justify-content-center align-items-center gap-3">
-                                        <img src="<?= base_url('assets/images/logo/logo.png'); ?>" alt="HRMIS LOGO" height="100">
+                                        <img src="<?= base_url('assets/images/logo/logo.png'); ?>" alt="HRMIS LOGO" height="120">
                                     </div>
 
                                 </div>

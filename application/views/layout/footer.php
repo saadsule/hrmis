@@ -3,7 +3,7 @@
                     <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center">
                         <!-- Left: Copyright -->
                         <p class="mb-2 mb-md-0 text-muted">
-                            &copy; 2026 Vaccine Forecasting. All rights reserved.
+                            &copy; 2026 HRMIS. All rights reserved.
                         </p>
 
                         <!-- Right: Links -->
